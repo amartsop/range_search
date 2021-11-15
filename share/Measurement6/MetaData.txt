@@ -1,0 +1,10 @@
+Analysis Properties
+================
+Strain Tensor: Linear
+Constitutive Law: Linear Isotropic
+Poisson Ratio: 0.3
+Young Modulus: 3e+07 (N/m^2)
+Thickness: 0.4 (m)
+Forcex: 0.0N
+Forcey: -8.0e4N
+Forcez: 0.0N
